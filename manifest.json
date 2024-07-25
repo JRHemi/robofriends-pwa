@@ -1,6 +1,7 @@
 {
   "short_name": "Robofriends",
   "name": "Robofriends App",
+  "id": "/robofriends-pwa/index.html",
   "description": "Application that will help you manage all your Robofriends.",
   "launch_handler": {
     "client_mode": "auto"
