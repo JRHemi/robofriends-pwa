@@ -2,6 +2,7 @@
   "short_name": "Robofriends",
   "name": "Robofriends App",
   "id": "?homescreen=1",
+  "description": "Application that will help you manage all your Robofriends.",
   "icons": [
     {
       "src": "favicon.ico",
