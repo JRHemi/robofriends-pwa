@@ -3,6 +3,9 @@
   "name": "Robofriends App",
   "id": "?homescreen=1",
   "description": "Application that will help you manage all your Robofriends.",
+  "launch_handler": {
+    "client_mode": "auto"
+  },
   "icons": [
     {
       "src": "favicon.ico",
